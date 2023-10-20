@@ -226,7 +226,7 @@ font-family: 'Anton', sans-serif;
 
 .background-image {
 
-  background-image: url(mowing.jpeg) ;
+  background-image: url("mowing.jpeg") ;
   
   width: 100%;
   height: auto;
@@ -242,7 +242,7 @@ font-family: 'Anton', sans-serif;
 }
 
 .procedures-image {
-background-image: url(grass.jpg) ;
+background-image: url("grass.jpg") ;
 
   
 width: 100%;
@@ -1215,7 +1215,7 @@ input[type=submit]:hover {
 
   .background-image {
 
-      background-image: url(mowing.jpeg) ;
+      background-image: url("mowing.jpeg") ;
       
       width: 100%;
       height: auto;
@@ -1231,7 +1231,7 @@ input[type=submit]:hover {
   }
 
   .procedures-image {
-    background-image: url(grass.jpg) ;
+    background-image: url("grass.jpg") ;
     
       
     width: 100%;
