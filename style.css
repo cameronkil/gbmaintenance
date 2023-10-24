@@ -1113,6 +1113,7 @@ nav h1 {
     padding-top: 10px;
     padding-bottom: 1rem;
     text-decoration: none;
+    font-family: 'Poppins', san-serif;
     
   }
 
@@ -1120,6 +1121,7 @@ nav h1 {
     color: white;
     
     font-size: 1rem;
+    font-family: 'Poppins', san-serif;
     
     
     text-decoration: underline;
@@ -1132,6 +1134,7 @@ nav h1 {
     text-decoration-color: red;
     text-align: center;
     font-size: 3rem;
+    font-family: 'Poppins', san-serif;
     
     bottom: 5px;
   }
@@ -1170,6 +1173,7 @@ nav h1 {
     padding-top: 10px;
     padding-bottom: 1rem;
     text-decoration: none;
+    font-family: 'Poppins', san-serif;
   }
 
 
@@ -1314,7 +1318,7 @@ nav h1 {
   .home-content-section p {
     font-size: 2rem;
     text-align: center;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Poppins', san-serif;
     
     font-style: italic;
     
@@ -1346,6 +1350,7 @@ nav h1 {
       color: white;
       font-size: 1rem;
       text-decoration: none;
+      font-family: 'Poppins', san-serif;
   }
 
 
@@ -1437,6 +1442,7 @@ nav h1 {
   .procedures-card p {
     font-size: 1rem;
     color: rgb(66, 66, 158);
+    font-family: 'Poppins', san-serif;
 
   }
 
@@ -1469,7 +1475,7 @@ nav h1 {
     max-width: 1000px;
     margin: auto;
     text-align: center;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Poppins', san-serif;
     display: inline-block;
     margin-bottom: .5rem;
     border: 5px solid;
@@ -1512,6 +1518,7 @@ nav h1 {
     color: rgb(0, 0, 0);
     text-align: right;
     right: 3rem;
+    font-family: 'Poppins', san-serif;
   }
 
   .review-card button {
@@ -1526,6 +1533,7 @@ nav h1 {
     text-decoration: none;
     padding: 2rem;
     font-size: 1.5rem;
+    font-family: 'Poppins', san-serif;
   }
 
   .mowing-card h2 {
@@ -1538,6 +1546,7 @@ nav h1 {
   .mowing-card p {
     font-size: 1rem;
     color: rgb(0, 0, 0);
+    font-family: 'Poppins', san-serif;
 
   }
 
@@ -1556,6 +1565,7 @@ nav h1 {
     padding:0.1rem;
     font-size: 1rem;
     padding: 0.25rem;
+    font-family: 'Poppins', san-serif;
 
   }
 
@@ -1600,6 +1610,7 @@ nav h1 {
   .poverlay button a {
     text-decoration: none;
     color: white;
+    font-family: 'Poppins', san-serif;
   }
 
 
@@ -1640,6 +1651,7 @@ nav h1 {
 
   .contact h4 {
     font-size: 0.7rem;
+    font-family: 'Poppins', san-serif;
   }
 
   input[type=text], select, textarea {
@@ -1841,6 +1853,7 @@ nav h1 {
     .card p {
       font-size: 1rem;
       color: rgb(66, 66, 158);
+      font-family: 'Poppins', san-serif;
 
     }
 
@@ -1888,6 +1901,7 @@ nav h1 {
       padding-top: 10px;
       padding-bottom: 1rem;
       text-decoration: none;
+      font-family: 'Poppins', san-serif;
       
     }
 
@@ -1897,6 +1911,7 @@ nav h1 {
       text-decoration-color: red;
       text-align: center;
       font-size: 1.5rem;
+      font-family: 'Poppins', san-serif;
       
       bottom: 5px;
     }
