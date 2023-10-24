@@ -785,16 +785,15 @@ input[type=submit]:hover {
     color: white;
     text-align: center;
     font-size: 2rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.25rem;
     text-decoration: none;
     
   }
 
   .footer-content h6 {
     color: white;
-    text-decoration: underline;
-    text-decoration-color: red;
+    
     text-align: center;
     font-size: 3rem;
     
