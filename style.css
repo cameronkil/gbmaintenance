@@ -215,7 +215,7 @@ font-style: italic;
 .home-content-section p {
 font-size: 1.5rem;
 text-align: center;
-font-family: 'Anton', sans-serif;
+font-family: 'Poppins', sans-serif;
 
 
 
@@ -247,6 +247,7 @@ font-family: 'Anton', sans-serif;
   color: white;
   font-size: 1rem;
   text-decoration: none;
+  font-family: 'Poppins', san-serif;
 }
 
 .home-content-section img {
@@ -318,6 +319,7 @@ font-size: 2rem;
 .procedures-card p {
 font-size: 1rem;
 color: rgb(66, 66, 158);
+font-family: 'Poppins', san-serif;
 
 }
 
@@ -325,6 +327,7 @@ color: rgb(66, 66, 158);
 color: grey;
 opacity: 70%;
 padding-bottom: 1rem;
+font-family: 'Poppins', san-serif;
 }
 
 .grid-container2 h3 {
@@ -360,7 +363,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 max-width: 1000px;
 margin: auto;
 text-align: center;
-font-family: 'Anton', sans-serif;
+font-family: 'Poppins', sans-serif;
 display: inline-block;
 margin-bottom: .5rem;
 border: 5px solid;
@@ -437,7 +440,7 @@ text-align: right;
 display:inline-block;
 background-color: red;
 right: 1rem;
-font-family:'Anton', sans-serif ;
+font-family:'Poppins', sans-serif ;
 
   
 }
@@ -469,7 +472,7 @@ padding: 0.25rem;
   opacity:80%;
   color: rgb(19, 17, 17);
   align-items: center;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Poppins', sans-serif;
   letter-spacing: -0px;
   font-style: italic;
   padding-top: 1rem;
@@ -666,7 +669,7 @@ input[type=submit]:hover {
     max-width: 300px;
     margin: auto;
     text-align: center;
-    font-family: arial;
+    font-family: 'Poppins', san-serif;
     display: inline-block;
     margin-bottom: 1rem;
   }
@@ -808,7 +811,7 @@ input[type=submit]:hover {
     opacity:80%;
     color: white;
     align-items: center;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Poppins', sans-serif;
     letter-spacing: -0px;
     font-style: italic;
     padding-top: 1rem;
@@ -856,45 +859,7 @@ input[type=submit]:hover {
     font-size: 1rem;
   }
 
-  input[type=text], select, textarea {
-    width: 80%;
-    padding: 1rem 2rem;
-    
-    margin-top: 0.25rem;
-    display: block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-bottom: 0.5rem;
-  }
   
-  input[type=submit] {
-    width: 80%;
-    background-color: #4CAF50;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  
-  input[type=submit]:hover {
-    background-color: #45a049;
-  }
-
-
-  .form-layout {
-    margin-left: 5rem;
-    justify-content: center;
-  }
-  
-  .form-layout label{
-    margin-left: 1rem;
-    margin-top: 0.5rem;
-
-    
-  }
 
   .home-content-section2 h2 {
     font-size: 1.5rem;
