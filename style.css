@@ -72,14 +72,14 @@ nav {
 .services {
   width: auto;
   background-color: lightgrey;
-  margin-left: 5rem;
-  margin-right: 5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
   text-align: center;
 }
 
 .services h5 {
   font-family: 'Poppins', sans-serif;
-  font-size: 3rem;
+  font-size: 1.5rem;
 
 }
 
@@ -93,7 +93,7 @@ nav {
 
 .services .grid-item h6 {
   font-family: 'Poppins', sans-serif;
-  font-size: 2rem;
+  font-size: 1.25rem;
 
 }
 
