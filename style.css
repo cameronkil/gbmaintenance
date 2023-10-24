@@ -69,6 +69,33 @@ nav {
   
 }
 
+.services {
+  width: auto;
+  background-color: lightgrey;
+  margin: auto;
+  text-align: center;
+}
+
+.services h5 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+
+}
+
+.services .grid-item {
+  padding-left: 3rem;
+  padding-right:3rem;
+  background-color: inherit;
+  text-align: left;
+  margin: auto
+}
+
+.services .grid-item h6 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.5rem;
+
+}
+
 
 
 .active a{
