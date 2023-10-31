@@ -85,8 +85,7 @@ nav .panel2 a {
 .services {
   width: auto;
   background-color: lightgrey;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin: auto;
   text-align: center;
 }
 
@@ -100,8 +99,8 @@ nav .panel2 a {
   padding-left: 1rem;
   padding-right: 1rem;
   background-color: inherit;
-  text-align: left;
-  margin: auto
+  text-align: center;
+  margin: auto;
 }
 
 .services .grid-item h6 {
