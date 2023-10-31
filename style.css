@@ -1471,6 +1471,27 @@ nav h1 {
       font-family: 'Poppins', san-serif;
   }
 
+  .services {
+    width: auto;
+    background-color: lightgrey;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .services h5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+  
+  }
+  
+  .services .grid-item {
+    padding-left: 2rem;
+    padding-right:2rem;
+    background-color: inherit;
+    text-align: left;
+    margin: auto
+  }
+
 
 
   #top {
