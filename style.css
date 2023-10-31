@@ -678,16 +678,16 @@ input[type=submit]:hover {
     background-color: #eee;
     color: #444;
     cursor: pointer;
-    padding: 18px;
+    padding: 1rem;
     width: 90%;
     border: 2px solid grey;
     text-align: center;
     outline: none;
-    font-size: 25px;
+    font-size: 1rem;
     transition: 0.4s;
     display: flex;
     margin: auto;
-    margin-top: 5px;
+    margin-top: 1rem;
   }
   
   .active, .accordion:hover {
@@ -695,16 +695,16 @@ input[type=submit]:hover {
   }
   
   .panel {
-    padding: 0 18px;
+    padding: 0 1.5rem;
     
     display: none;
     background-color: white;
     overflow: auto;
-    margin: auto;
+    margin-left: 0.2rem;
     width: 85%;
     
     
-    margin-bottom: 5px;
+    margin-bottom: 1rem;
   }
 
   .card {
