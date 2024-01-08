@@ -735,7 +735,7 @@ input[type=submit]:hover {
 
   .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto;
     
     
     text-align: center;
