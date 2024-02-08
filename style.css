@@ -21,6 +21,63 @@ display: block;
   margin-bottom: 5rem;
 }
 
+.presswash-image h3 {
+  text-align: center;
+  color: white;
+  background-color: red;
+  
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Poppins', sans-serif;
+  width: auto;
+ 
+}
+
+.presswash-image h1 {
+  font-size: 7rem;
+  text-align: center;
+  opacity: 90%;
+  color: white;
+  margin-bottom: 5px;
+  
+  font-family: 'Anton', sans-serif;
+  letter-spacing: -0px;
+  font-style: italic;
+  padding-top: 5rem;
+  padding-bottom: 9rem;
+}
+
+.pressure-washing {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.pressure-washing a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+}
+
+.pressure-washing span {
+  text-decoration: underline;
+}
+
+.pressure-washing {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.pressure-washing a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+}
+
+.pressure-washing span {
+  text-decoration: underline;
+}
+
+
+
 iframe {
   width:100%;
   height:100%;
@@ -286,6 +343,16 @@ font-family: 'Poppins', sans-serif;
   
 
   
+}
+
+.presswash-image {
+  background-image: url(pressimages/presswash1.jpg) ;
+  
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  object-position: bottom;
 }
 
 .procedures-image {
@@ -790,6 +857,28 @@ input[type=submit]:hover {
     color: grey;
     opacity: 70%;
     padding-bottom: 1rem;
+  }
+
+  .pressure h3 {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+  }
+
+  .pressure button a {
+    padding: 5px;
+    color: white;
+    
+  }
+
+  .pressure button  {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: rgb(45, 90, 128);
+    display: flex;
+    margin: auto;
+    
   }
 
   .pressure h3 {
