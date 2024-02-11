@@ -21,6 +21,19 @@ display: block;
   margin-bottom: 5rem;
 }
 
+.background-image h3 {
+  text-align: center;
+  color: white;
+  background-color: red;
+  
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Poppins', sans-serif;
+  width: auto;
+ 
+}
+
 .presswash-image h3 {
   text-align: center;
   color: white;
@@ -74,6 +87,17 @@ display: block;
 
 .pressure-washing span {
   text-decoration: underline;
+}
+
+#presswash {
+  background-color: red;
+  
+  color: white;
+  text-decoration: none;
+  padding: .5rem;
+  border-radius: .5rem;
+
+
 }
 
 
